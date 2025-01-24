@@ -1,6 +1,5 @@
-## Hi there, I'm Alex 👋
+# Hi there, I'm Alex 👋
 
-# 💫 About Me:
 🦻 I am currently working on an musical ear training app<br>🎓 Graduated from Rutgers Web Development Bootcamp<br>🕸️ Working As a Web Developer since 2023<br>🐍 Currently learning Python
 
 # 💻 Tech Stack:
